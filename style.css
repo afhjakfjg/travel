@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+.promo{
+    background: url(./img/Фон.png) no-repeat center / cover;
+    height: 900px;
+}
+.new{
+    color: #FFF;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+padding-left: 70px;
+
+}
+.header{
+    display: flex;
+    
+    padding-top: 33px;
+}
+
+.ketelog{
+    color: #FFF;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+padding-left: 70px;
+
+}
+.onas{
+    color: #FFF;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+padding-left: 28px;
+}
+.name{
+    padding-left: 120px;
+}
+.language{
+    color: #FFF;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+padding-left: 93.91px;
+}
+.uah{
+    color: #FFF;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+padding-left: 25px;
+}
+.lupa{
+    
+    padding-left: 15px;
+}
+
